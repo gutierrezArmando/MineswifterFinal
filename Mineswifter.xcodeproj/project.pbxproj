@@ -14,6 +14,7 @@
 		2A895107217C61CC006B5853 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2A895105217C61CC006B5853 /* LaunchScreen.storyboard */; };
 		2A89510F217C62E6006B5853 /* Square.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A89510E217C62E6006B5853 /* Square.swift */; };
 		2A895111217C6380006B5853 /* Board.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A895110217C6380006B5853 /* Board.swift */; };
+		2A895113217C6A7F006B5853 /* SquareButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A895112217C6A7F006B5853 /* SquareButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		2A895108217C61CC006B5853 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2A89510E217C62E6006B5853 /* Square.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Square.swift; sourceTree = "<group>"; };
 		2A895110217C6380006B5853 /* Board.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Board.swift; sourceTree = "<group>"; };
+		2A895112217C6A7F006B5853 /* SquareButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SquareButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				2A8950FC217C61CC006B5853 /* AppDelegate.swift */,
 				2A8950FE217C61CC006B5853 /* ViewController.swift */,
 				2A895100217C61CC006B5853 /* Main.storyboard */,
+				2A895112217C6A7F006B5853 /* SquareButton.swift */,
 				2A89510E217C62E6006B5853 /* Square.swift */,
 				2A895110217C6380006B5853 /* Board.swift */,
 				2A895103217C61CC006B5853 /* Assets.xcassets */,
@@ -142,6 +145,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2A895113217C6A7F006B5853 /* SquareButton.swift in Sources */,
 				2A89510F217C62E6006B5853 /* Square.swift in Sources */,
 				2A8950FF217C61CC006B5853 /* ViewController.swift in Sources */,
 				2A895111217C6380006B5853 /* Board.swift in Sources */,

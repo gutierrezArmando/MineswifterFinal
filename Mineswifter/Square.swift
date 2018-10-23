@@ -9,6 +9,7 @@
 import Foundation
 
 class Square{
+
     let row: Int
     let col: Int
     
@@ -17,7 +18,6 @@ class Square{
     var numNeighboringMines = 0
     var isMineLocation = false
     var isRevealed = false
-    var test = false
     
     init(row:Int, col:Int){
         //Store the row and column of the square in the grid

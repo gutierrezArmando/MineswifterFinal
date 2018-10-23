@@ -13,7 +13,6 @@ class Board{
     //A 2d square of square cells, indexed by [row][column]
     var squares: [[Square]] = []
     
-    
     init(size:Int){
         self.size = size
         
@@ -87,6 +86,6 @@ class Board{
             return nil
         }
     }
-    
+
     
 }
